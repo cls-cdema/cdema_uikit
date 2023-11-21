@@ -1,6 +1,7 @@
-$font-path: 'https://cdn.wfp.org/guides/ui/assets/v0.0.1/fonts' !default;
+/*$font-path: 'https://cdn.wfp.org/guides/ui/assets/v0.0.1/fonts' !default;*/
+$font-path: '../assets/fonts' !default;
 
-@import '@carbon/import-once/scss/import-once';
+@import 'import-once';
 
 @mixin open-sans-font-face {
   @font-face {

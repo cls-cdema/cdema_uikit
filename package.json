@@ -1,7 +1,7 @@
 {
-  "name": "@wfp/ui",
+  "name": "cls/cdema_uikit",
   "version": "1.22.3",
-  "description": "WFP UI Kit",
+  "description": "CLS UI Kit derived from WFP UI KIT",
   "license": "Apache-2",
   "main": "lib/index.js",
   "module": "es/index.js",
