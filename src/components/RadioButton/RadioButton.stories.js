@@ -20,7 +20,7 @@ Regular.args = {
 };
 
 const regularsourcecode = `
-import { RadioButton  } from "@wfp/ui";
+import { RadioButton  } from "cdema_uikit";
 
 <RadioButton labelText="Radio button" />
 `;
@@ -82,7 +82,7 @@ export const VerticalGrouping = (args) => {
 
 const verticalsourcecode = `
 
-import { RadioButton, InputGroup  } from "@wfp/ui";
+import { RadioButton, InputGroup  } from "cdema_uikit";
 
 const [gender, setgender] = useState('');
 
@@ -160,7 +160,7 @@ export const HorizontalGrouping = (args) => (
 );
 
 const horizontalsourcecode = `
-import { RadioButton, InputGroup  } from "@wfp/ui";
+import { RadioButton, InputGroup  } from "cdema_uikit";
 
 <InputGroup
   name="input-group"

@@ -38,7 +38,7 @@ export const Regular = (args) => (
 Regular.args = { children: 'WFP Homepage', href: 'https://www.wfp.org' };
 
 const sourcecode = `
-import { ContextMenu, ContextMenuGroup, ContextMenuItem } from "@wfp/ui";
+import { ContextMenu, ContextMenuGroup, ContextMenuItem } from "cdema_uikit";
 
 <ContextMenu
   content={
@@ -98,7 +98,7 @@ export const States = (args) => (
 States.args = { ...Regular.args, style: { marginRight: '1rem' } };
 
 const statesourcecode = `
-import { ContextMenu, ContextMenuGroup, ContextMenuItem } from "@wfp/ui";
+import { ContextMenu, ContextMenuGroup, ContextMenuItem } from "cdema_uikit";
 
 <ContextMenu
     content={({ setVisibility, visibilityChange }) => (

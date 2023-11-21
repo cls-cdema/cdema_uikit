@@ -49,7 +49,7 @@ Regular.story = {
     docs: {
       source: {
         code: `
-import { Wrapper, Story, Icon} from "@wfp/ui";
+import { Wrapper, Story, Icon} from "cdema_uikit";
 import { iconWfpHumEmergencyResponsePos } from '@wfp/icons';
 
 <Wrapper pageWidth="lg" spacing="md">

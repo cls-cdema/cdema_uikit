@@ -25,7 +25,7 @@ Regular.args = {
 };
 
 const inputsourcecode = `
-import { Input  } from "@wfp/ui";
+import { Input  } from "cdema_uikit";
 
 <Input
   helperText="Optional helperText"

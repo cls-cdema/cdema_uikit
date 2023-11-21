@@ -33,7 +33,7 @@ several lines.
 `;
 
 const selectsourcecode = `
-import { Select, SelectItem  } from "@wfp/ui";
+import { Select, SelectItem  } from "cdema_uikit";
 
 <Select>
   <SelectItem value="option-1" text="Option 1" />

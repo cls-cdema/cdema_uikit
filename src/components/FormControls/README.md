@@ -3,7 +3,7 @@
 ### Usage with react
 
 ```js
-import { FormControls } from '@wfp/ui';
+import { FormControls } from 'cdema_uikit';
 ```
 
 | Setting          | Default        | Options         | Role                               |

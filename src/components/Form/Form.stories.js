@@ -71,7 +71,7 @@ Default.args = {
 };
 
 const defaultformsourcecode = `
-import { Form, TextInput, TextArea, Select, SelectItem, Button } from "@wfp/ui";
+import { Form, TextInput, TextArea, Select, SelectItem, Button } from "cdema_uikit";
 
 <Form>
   <TextInput
@@ -256,7 +256,7 @@ DetailedForm.args = {
 };
 
 const detailedforsourcecode = `
-import { Form, FormGroup, Checkbox, NumberInput, Toggle, FileUploader, InputGroup, RadioButton, Select, SelectItem, Search, TextInput, TextArea, Button } from '@wfp/ui';
+import { Form, FormGroup, Checkbox, NumberInput, Toggle, FileUploader, InputGroup, RadioButton, Select, SelectItem, Search, TextInput, TextArea, Button } from 'cdema_uikit';
 import Dropzone from 'react-dropzone';
 
 <Form>
@@ -429,7 +429,7 @@ Login.args = {
 };
 
 const loginsourcecode = `
-import { Form, FormGroup, TextInput, Button } from "@wfp/ui";
+import { Form, FormGroup, TextInput, Button } from "cdema_uikit";
 
 <Form>
   <FormGroup legendText="Login Form Example">
@@ -517,7 +517,7 @@ export const Contact = (args) => {
 };
 
 const contactsourcecode = `
-import { Form, FormGroup, TextInput, Button  } from "@wfp/ui";
+import { Form, FormGroup, TextInput, Button  } from "cdema_uikit";
 
 
 <Form>

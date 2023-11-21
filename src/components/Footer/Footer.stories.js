@@ -64,7 +64,7 @@ Regular.args = {
 };
 
 const regularsourcecode = `
-import { Footer, Link  } from "@wfp/ui";
+import { Footer, Link  } from "cdema_uikit";
         
 <Footer>
   <div className="wfp--footer__info">
@@ -146,7 +146,7 @@ External.args = {
 };
 
 const externalsourcecode = `
-import { Footer, Link  } from "@wfp/ui";
+import { Footer, Link  } from "cdema_uikit";
 
 <Footer
   external
@@ -206,7 +206,7 @@ export const Internal = (args) => (
 );
 
 const intersourcecode = `
-import { Footer, Link } from "@wfp/ui";
+import { Footer, Link } from "cdema_uikit";
 
 <Footer>
   <div className="wfp--footer__info">
@@ -282,7 +282,7 @@ export const OverrideLogos = (args) => (
 );
 
 const overridelogosourcecode = `
-import { Footer, Link } from "@wfp/ui";
+import { Footer, Link } from "cdema_uikit";
 
 <Footer
   logo={<div>Logo</div>}

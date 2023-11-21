@@ -34,7 +34,7 @@ When loader is applied with an overlay. Do this by specifying \`true\` to \`with
 `;
 
 const overlaysourcecode = `
-import { Loading, Button  } from "@wfp/ui";
+import { Loading, Button  } from "cdema_uikit";
 
 export const overlay = (args) => {
   const [loading, setLoading] = useState(false);

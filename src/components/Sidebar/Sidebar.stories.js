@@ -85,7 +85,7 @@ export const Regular = (args) => {
 
 const codesnippet = `
 import { Sidebar , SidebarHeader, SidebarBackButton, Tag,
-  MainNavigation, Item, Search, Empty} from "@wfp/ui";
+  MainNavigation, Item, Search, Empty} from "cdema_uikit";
 
 
 const Phonebook = () => {
@@ -278,7 +278,7 @@ export const Phonebook = (args) => {
 const sourcecode = `
 import React, {useState} from 'react';
 import { Sidebar , SidebarHeader, SidebarBackButton, SidebarScroll,
-     MainNavigation, User, Item, Search, Empty, List, ListItem } from "@wfp/ui";
+     MainNavigation, User, Item, Search, Empty, List, ListItem } from "cdema_uikit";
 
 const phonebookdata = [
   {

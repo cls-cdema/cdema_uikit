@@ -85,7 +85,7 @@ Regular.story = {
     docs: {
       source: {
         code: sourcecode(
-          `import {SecondaryNavigation, SecondaryNavigationTitle, Breadcrumb, BreadcrumbHome, BreadcrumbItem, Tabs, Tab } from "@wfp/ui";`,
+          `import {SecondaryNavigation, SecondaryNavigationTitle, Breadcrumb, BreadcrumbHome, BreadcrumbItem, Tabs, Tab } from "cdema_uikit";`,
           tabsection
         ),
       },
@@ -118,7 +118,7 @@ HeadingOnly.story = {
       storyDescription: descriptionHeadingOnly,
       source: {
         code: sourcecode(
-          `import {SecondaryNavigation, SecondaryNavigationTitle, Breadcrumb, BreadcrumbHome, BreadcrumbItem } from "@wfp/ui";`
+          `import {SecondaryNavigation, SecondaryNavigationTitle, Breadcrumb, BreadcrumbHome, BreadcrumbItem } from "cdema_uikit";`
         ),
       },
     },

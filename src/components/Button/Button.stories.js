@@ -108,7 +108,7 @@ Using an Button with only an Icon while not beeing recommended can be achieved b
 `;
 
 const buttoniconsnippet = `
-import { Button } from '@wfp/ui';
+import { Button } from 'cdema_uikit';
 import { iconAddGlyph } from '@wfp/icons';
 
   <>
@@ -150,7 +150,7 @@ or less.
 `;
 
 const smallbuttonsnippet = `
-import { Button } from '@wfp/ui';
+import { Button } from 'cdema_uikit';
 import { iconAddGlyph } from '@wfp/icons';
 
   <>
@@ -189,7 +189,7 @@ or less.
 `;
 
 const largebuttonsnippet = `
-import { Button } from '@wfp/ui';
+import { Button } from 'cdema_uikit';
 import { iconAddGlyph } from '@wfp/icons';
 
   <>

@@ -68,7 +68,7 @@ export const WithIcon = (args) => (
 );
 
 const withiconsourcecode = `
-import { Tooltip  } from "@wfp/ui";
+import { Tooltip  } from "cdema_uikit";
 import { iconOverflowMenu } from '@wfp/icons';
 
 <Tooltip

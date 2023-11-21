@@ -97,7 +97,7 @@ export const withIcon = (args) => {
 };
 
 const sourcecode = ` 
-import { ContentSwitcher , Switch, Icon } from "@wfp/ui";
+import { ContentSwitcher , Switch, Icon } from "cdema_uikit";
 import { iconAddGlyph } from '@wfp/icons'; 
 
 <ContentSwitcher onChange={()=>{}}>

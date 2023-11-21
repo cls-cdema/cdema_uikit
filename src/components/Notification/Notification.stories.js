@@ -42,7 +42,7 @@ Toast.args = {
 };
 
 const toastsourcecode = `
-import { ToastNotification } from "@wfp/ui";
+import { ToastNotification } from "cdema_uikit";
 
 <ToastNotification
   caption="00:00:00 AM"

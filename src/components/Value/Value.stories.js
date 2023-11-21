@@ -30,7 +30,7 @@ export const Regular = (args) => (
 );
 
 const valuesourcecode = `
-import { Value, Unit } from "@wfp/ui";
+import { Value, Unit } from "cdema_uikit";
 
 <Value
     value={

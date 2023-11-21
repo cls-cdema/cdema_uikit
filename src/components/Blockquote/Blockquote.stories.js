@@ -132,7 +132,7 @@ CustomIcon.args = {
 };
 
 const customiconsourcecode = `
-import { Blockquote,  Icon } from "@wfp/ui";
+import { Blockquote,  Icon } from "cdema_uikit";
 import { iconAddOutline } from '@wfp/icons';
 
 <Blockquote icon={<Icon icon={iconAddOutline} height={48} width={48} />}>
@@ -185,7 +185,7 @@ WithButtons.args = {
 };
 
 const withbuttonsourcecode = `
-import { Blockquote, Button  } from "@wfp/ui";
+import { Blockquote, Button  } from "cdema_uikit";
 
 <Blockquote
   actionButtons={<><Button>Accept</Button><Button kind="danger--primary">Reject</Button></>}

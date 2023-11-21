@@ -18,7 +18,7 @@ storiesOf('Getting started|Getting started', module)
     <Page title="Changelog" subTitle="Latest updates and versions">
       <Blockquote title="UI-Kit 1.4 is available" kind="warning">
         We've just release the new version of the UI Kit. Get the{' '}
-        <Link href="https://www.npmjs.com/package/@wfp/ui" target="_blank">
+        <Link href="https://www.npmjs.com/package/cdema_uikit" target="_blank">
           latest version
         </Link>{' '}
         now or read the{' '}

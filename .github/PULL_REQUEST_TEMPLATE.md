@@ -1,4 +1,4 @@
-Closes @wfp/ui#
+Closes cdema_uikit#
 
 {{short description}}
 

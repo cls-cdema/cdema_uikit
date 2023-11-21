@@ -139,7 +139,7 @@ Splash.args = {
 };
 
 const splashsourcecode = `
-  import { Hero, Button } from "@wfp/ui"; 
+  import { Hero, Button } from "cdema_uikit"; 
 
   <Hero
     href="#"
@@ -200,7 +200,7 @@ SplashCompact.args = {
 };
 
 const splashcompactcode = `
-  import { Hero, Button } from "@wfp/ui";
+  import { Hero, Button } from "cdema_uikit";
 
   <Hero
   href="#"
@@ -259,7 +259,7 @@ Emergencies.args = {
 };
 
 const sourcecode = `
-import { Hero, Icon } from "@wfp/ui";
+import { Hero, Icon } from "cdema_uikit";
 import { iconWfpHumEmergencyResponsePos } from '@wfp/icons';
         
 <Hero

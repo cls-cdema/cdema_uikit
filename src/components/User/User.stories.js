@@ -65,7 +65,7 @@ You can show the avatar only without showing the username.
 `;
 
 const extendedsourcecode = `
-import { User, List, ListItem } from "@wfp/ui";
+import { User, List, ListItem } from "cdema_uikit";
 
 <User
     alt="Image Alt text"

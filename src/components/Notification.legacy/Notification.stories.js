@@ -45,8 +45,8 @@ export const Regular = (args) => {
 
 const notificationsourcecode = `
 import { ToastContainer, toast } from 'react-toastify';
-import notificationStyle from '@wfp/ui';
-import {Icon, Button} from '@wfp/ui';
+import notificationStyle from 'cdema_uikit';
+import {Icon, Button} from 'cdema_uikit';
 import { iconCheckmarkGlyph } from '@wfp/icons';
 
 const Notification = (args) => {

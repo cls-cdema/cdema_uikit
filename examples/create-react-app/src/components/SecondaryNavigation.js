@@ -7,7 +7,7 @@ import {
   BreadcrumbHome,
   Tabs,
   Tab,
-} from '@wfp/ui';
+} from 'cdema_uikit';
 
 function NavigationSecondary() {
   return (

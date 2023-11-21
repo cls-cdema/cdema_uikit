@@ -40,7 +40,7 @@ Default.args = {
 };
 
 const defaultsourcecode = `
-import { FormGroup, TextInput } from "@wfp/ui";
+import { FormGroup, TextInput } from "cdema_uikit";
 
 <FormGroup
   className="wfp--form-long"
@@ -179,7 +179,7 @@ export const AddressDetails = (args) => {
 };
 
 const addressdetailesourcecode = `
-import {FormGroup, NumberInput, TextInput } from '@wfp/ui';
+import {FormGroup, NumberInput, TextInput } from 'cdema_uikit';
 import CreatableSelect from 'react-select/creatable';
 
 const options = [

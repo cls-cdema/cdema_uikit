@@ -85,7 +85,7 @@ export const NumberFractionDigits = () => (
 );
 
 const sourcecode = `
-import { Unit, Table, Text } from "@wfp/ui";
+import { Unit, Table, Text } from "cdema_uikit";
 
 <Table>
     <thead>

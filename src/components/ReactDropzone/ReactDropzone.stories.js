@@ -52,7 +52,7 @@ Regular.parameters = {
   docs: {
     source: {
       code: ` import Dropzone from 'react-dropzone';
-      import { List, ListItem } from '@wfp/ui';
+      import { List, ListItem } from 'cdema_uikit';
 
       export const Regular = (args) => {
         const [file, setfile] = useState([])
@@ -124,7 +124,7 @@ Advanced.parameters = {
     source: {
       code: `
 import Dropzone, { useDropzone } from 'react-dropzone';
-import { Icon, List, ListItem } from '@wfp/ui';
+import { Icon, List, ListItem } from 'cdema_uikit';
 import { iconUpload } from '@wfp/icons';
 import classNames from 'classnames';
 

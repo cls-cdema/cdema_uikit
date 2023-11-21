@@ -42,7 +42,7 @@ export const Input = (args) => (
 );
 
 const formhintsourcecode = `
-import { FormHint, TextInput  } from "@wfp/ui";
+import { FormHint, TextInput  } from "cdema_uikit";
 
 <TextInput
   labelText={

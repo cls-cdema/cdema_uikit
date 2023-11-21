@@ -33,7 +33,7 @@ Regular.decorators = [
 Regular.args = { children: 'Content', kind: 'h1' };
 
 const regularsourcecode = `
-import { Text } from "@wfp/ui";
+import { Text } from "cdema_uikit";
 
 <div>
   <Text kind='h1'>Content</Text>
@@ -73,7 +73,7 @@ export const Headings = (args) => (
 );
 
 const headingsourcecode = `
-import { Text } from "@wfp/ui";
+import { Text } from "cdema_uikit";
 
 <>
   <Text kind='h1'>Heading 1</Text>
@@ -119,7 +119,7 @@ export const text = (args) => (
   </>
 );
 const textsourcecode = `
-import { Text } from "@wfp/ui";
+import { Text } from "cdema_uikit";
 
 <>
   <Text kind='p'>Body copy, paragraph</Text>
@@ -149,7 +149,7 @@ export const Pagetitle = (args) => (
 );
 
 const pagetitlesourcecode = `
-import { Text, Link  } from "@wfp/ui";
+import { Text, Link  } from "cdema_uikit";
 
 <>
   <Text kind="title">Title</Text>
@@ -177,7 +177,7 @@ export const Links = (args) => (
 );
 
 const linksourcecode = `
-import { Text, Link  } from "@wfp/ui";
+import { Text, Link  } from "cdema_uikit";
 
 <>
   <Text kind="a">Link</Text>
@@ -215,7 +215,7 @@ export const Emphasis = (args) => (
 );
 
 const emphasissourcecode = `
-import { Text } from "@wfp/ui";
+import { Text } from "cdema_uikit";
 
 <>
   <Text kind="strong">Bold</Text>
@@ -258,7 +258,7 @@ export const Lists = (args) => (
 );
 
 const listsourcecode = `
-import { Text, List, ListItem  } from "@wfp/ui";
+import { Text, List, ListItem  } from "cdema_uikit";
 
 const list = [
     { kind: 'simple', heading: 'Ordered lists' },
@@ -329,7 +329,7 @@ export const textColors = (args) => (
 );
 
 const textcolorsourcecode = `
-import { Text } from '@wfp/ui'
+import { Text } from 'cdema_uikit'
 
 <>
   <div style={{ display: 'flex' }}>

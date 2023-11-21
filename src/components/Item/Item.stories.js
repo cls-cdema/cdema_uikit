@@ -33,7 +33,7 @@ Regular.args = {
 };
 
 const itemsourcecode = (kind, wrapper) => `
-import { Item, Tag } from "@wfp/ui";
+import { Item, Tag } from "cdema_uikit";
 
 <Item
   additional="Yesterday"

@@ -368,7 +368,7 @@ To add Pagination to your table, you can use the Pagination sub component. Pagin
 For more details please visit [React-Table](https://github.com/react-tools/react-table);
 
 \`\`\`js
-import { Pagination } from '@wfp/ui';
+import { Pagination } from 'cdema_uikit';
 
 
 <Pagination

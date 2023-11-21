@@ -27,7 +27,7 @@ RegularAnchorNavigation.args = {
 };
 
 const anchorsourcecode = `
-import { AnchorNavigation, Link } from "@wfp/ui";
+import { AnchorNavigation, Link } from "cdema_uikit";
 
 <AnchorNavigation title="Title">
   <Link href="#">

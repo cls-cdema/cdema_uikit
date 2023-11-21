@@ -20,7 +20,7 @@ export const Regular = (args) => (
 );
 
 const infobarsourcecode = `
-  import { InfoBar, Link  } from "@wfp/ui";
+  import { InfoBar, Link  } from "cdema_uikit";
 
   <InfoBar>
     InfoBar with content.{' '}

@@ -41,7 +41,7 @@ export const Regular = (args) => (
 );
 
 const regularsourcecode = `
-import { InputGroup, RadioButton  } from "@wfp/ui";
+import { InputGroup, RadioButton  } from "cdema_uikit";
 
 <InputGroup
   defaultSelected="default-selected"
@@ -95,7 +95,7 @@ export const withCheckbox = (args) => (
 );
 
 const withcheckboxsourcecode = `
-import { InputGroup, Checkbox } from "@wfp/ui";
+import { InputGroup, Checkbox } from "cdema_uikit";
         
 <InputGroup
   defaultSelected="default-selected"
@@ -184,7 +184,7 @@ export const vertical = (args) => (
 
 const verticalsourcecode = `
 
-import { InputGroup, Checkbox, RadioButton  } from "@wfp/ui";
+import { InputGroup, Checkbox, RadioButton  } from "cdema_uikit";
 
 
   <InputGroup

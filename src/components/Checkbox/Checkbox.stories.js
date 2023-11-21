@@ -41,7 +41,7 @@ const check = `Specify whether the underlying input should be checked.`;
 
 const checkinoutsourcecode = `
 
-import { Checkbox } from "@wfp/ui";
+import { Checkbox } from "cdema_uikit";
 
 
 const CheckedInput = () => {
@@ -142,7 +142,7 @@ export const VerticalGrouping = (args) => (
 );
 
 const verticalsourcecode = `
-import { Checkbox, InputGroup  } from "@wfp/ui";
+import { Checkbox, InputGroup  } from "cdema_uikit";
 
 <InputGroup
   helperText="select any that apply"
@@ -179,7 +179,7 @@ export const HorizontalGrouping = (args) => (
 );
 
 const horizontalsourcecode = `
-import { Checkbox, InputGroup  } from "@wfp/ui";
+import { Checkbox, InputGroup  } from "cdema_uikit";
 
 <InputGroup
   helperText="select any that apply"

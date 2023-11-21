@@ -23,7 +23,7 @@ export const RegularNavigation = (args) => (
 );
 
 const sourcecode = `
-  import { BannerNavigationWithContent } from "@wfp/ui";
+  import { BannerNavigationWithContent } from "cdema_uikit";
         
   <BannerNavigationWithContent pageWidth="lg" />
   `;

@@ -25,7 +25,7 @@ storiesOf('Design|Guidelines', module)
       />
       <h3>NPM</h3>
       <p>
-        <a href="https://www.npmjs.com/package/@wfp/ui">Package on npm</a>
+        <a href="https://www.npmjs.com/package/cdema_uikit">Package on npm</a>
       </p>
     </Page>
   ));

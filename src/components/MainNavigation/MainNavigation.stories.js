@@ -164,7 +164,7 @@ You can customize the content by using \`BannerNavigation\`.
 `;
 
 const sourcecode = (type) => {
-  return `import { Button,User, Search } from "@wfp/ui";
+  return `import { Button,User, Search } from "cdema_uikit";
   import {
     MainNavigation,
     MainNavigationItem,
@@ -177,7 +177,7 @@ const sourcecode = (type) => {
     SubNavigationList,
     SubNavigationGroup,
     SubNavigationItem
-  } from "@wfp/ui";
+  } from "cdema_uikit";
   
   const Navigation = () => {
     return (

@@ -22,7 +22,7 @@ Default.story = {
     docs: {
       source: {
         code: `
-import { Wrapper, Module, ModuleHeader, ModuleBody, ModuleFooter } from "@wfp/ui";
+import { Wrapper, Module, ModuleHeader, ModuleBody, ModuleFooter } from "cdema_uikit";
 
 <Wrapper background="lighter" pageWidth="lg" spacing="md">
 <div className="row">

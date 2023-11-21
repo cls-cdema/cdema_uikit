@@ -20,7 +20,7 @@ Regular.args = {
 };
 
 const iconsourcecode = `
-import { Icon  } from "@wfp/ui";
+import { Icon  } from "cdema_uikit";
 import { iconAdd} from '@wfp/icons';
 
 <Icon icon={iconAdd} />

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, User, Search, Link } from '@wfp/ui';
+import { Button, User, Search, Link } from 'cdema_uikit';
 import {
   MainNavigation,
   MainNavigationItem,
@@ -12,7 +12,7 @@ import {
   SubNavigationList,
   SubNavigationGroup,
   SubNavigationItem,
-} from '@wfp/ui';
+} from 'cdema_uikit';
 
 const Navigation = () => {
   return (

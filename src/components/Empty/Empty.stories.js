@@ -29,7 +29,7 @@ Regular.args = {
 };
 
 const emptysourcecode = `
-import { Empty, Button  } from "@wfp/ui";
+import { Empty, Button  } from "cdema_uikit";
 
 <Empty
   button={<Button kind="accent">New entry</Button>}

@@ -38,7 +38,7 @@ export const Regular = (args) => (
 );
 
 const sourcecode = `
-import { Tabs, Tab } from "@wfp/ui";
+import { Tabs, Tab } from "cdema_uikit";
 
 <Tabs>
   <Tab label="Label 1">

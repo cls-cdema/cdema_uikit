@@ -14,14 +14,14 @@
 Run the following command using [npm](https://www.npmjs.com/):
 
 ```bash
-npm install @wfp/ui
+npm install cdema_uikit
 npm install @wfp/icons
 ```
 
 or [yarn](https://yarnpkg.com/lang/en/):
 
 ```bash
-yarn add @wfp/ui
+yarn add cdema_uikit
 yarn add @wfp/icons
 ```
 
@@ -33,13 +33,13 @@ For v1.19.0 or higher, install sass instead of node-sass
 Import a react component
 
 ```jsx
-import { Breadcrumb, BreadcrumbItem, BreadcrumbHome } from '@wfp/ui';
+import { Breadcrumb, BreadcrumbItem, BreadcrumbHome } from 'cdema_uikit';
 ```
 
 Import the CSS
 
 ```jsx
-import '@wfp/ui/assets/css/styles.css';
+import 'cdema_uikit/assets/css/styles.css';
 ```
 
 Additional information about the Usage can be found [here](https://wfp.org/UIGuide).

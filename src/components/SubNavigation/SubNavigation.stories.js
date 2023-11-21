@@ -159,7 +159,7 @@ const sourcecode = `
 import {
   SubNavigation , SubNavigationHeader, SubNavigationTitle, SubNavigationLink, SubNavigationFilter, SubNavigationContent, SubNavigationList, SubNavigationGroup, SubNavigationItem,
   Button, Search, Link
-} from "@wfp/ui";
+} from "cdema_uikit";
 
 <SubNavigation>
   <SubNavigationHeader>

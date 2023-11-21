@@ -2220,9 +2220,9 @@
   dependencies:
     natives "^1.1.6"
 
-"@wfp/ui@^1.17.1":
+"cdema_uikit@^1.17.1":
   version "1.21.0"
-  resolved "https://registry.yarnpkg.com/@wfp/ui/-/ui-1.21.0.tgz#db5230689396fc41a746b5cd5444ffa83d7a534b"
+  resolved "https://registry.yarnpkg.com/cdema_uikit/-/ui-1.21.0.tgz#db5230689396fc41a746b5cd5444ffa83d7a534b"
   integrity sha512-EPhZmwjpPRLGX0fWBR/b5AiXt0Ytuk7FazoZ70o6DFzhHfOEuqWSBZJMXcRbbPycUkx9mrYVhK2jbmBde7+fpg==
   dependencies:
     "@carbon/import-once" "^10.5.0"

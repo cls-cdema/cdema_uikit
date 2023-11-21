@@ -2,7 +2,7 @@
 # `examples/html-handlebars`
 
   
-> How to integrate `@wfp/ui` and `@wfp/icons` into a project
+> How to integrate `cdema_uikit` and `@wfp/icons` into a project
 
 > using plain html
 

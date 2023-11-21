@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import { Table, Tooltip, Icon, Search } from '@wfp/ui';
+import { Table, Tooltip, Icon, Search } from 'cdema_uikit';
 import { iconOverflowMenu } from '@wfp/icons';
 
 function ToolTipTest() {

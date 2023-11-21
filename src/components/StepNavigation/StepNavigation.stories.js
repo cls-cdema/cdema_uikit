@@ -44,7 +44,7 @@ StepNavigationRegular.story = {
       storyDescription: `Using \`onSelectionChange\` and \`selectedPage\` props in this StepNavigation example`,
       source: {
         code: `
-        import { StepNavigation , StepNavigationItem } from "@wfp/ui";
+        import { StepNavigation , StepNavigationItem } from "cdema_uikit";
         
 const StepNavigationExample = () => {
   const [step, setStep] = useState(0);
